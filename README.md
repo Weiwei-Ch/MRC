@@ -29,10 +29,11 @@ MRC机器阅读理解笔记和集成代码
 
 模型题目：答案抽取项目  
 
-内容：使用百度贡献的DuReader_robust数据集，完成MRC任务中的答案抽取项目，在给定的context下，通过模型标注正确答案的
+内容：此为2020语言与智能技术竞赛中机器阅读理解任务。使用百度贡献的DuReader_robust数据集，完成MRC任务中的答案抽取项目，在给定的context下，通过模型标注正确答案的
 起始和终止位置，找到question对应的正确答案；
 
 模型：用的是中文预训练集成模型，子模型分别是RoBERTa-wwm-ext、BERT-wwm-ext和BERT-wm；
 
-结果： F1: 85.115和EM: 74.312；
+结果： F1: 85.115和EM: 74.312（高于竞赛排行榜中第一名提交结果);
+比赛网址：https://aistudio.baidu.com/aistudio/competition/detail/28?isFromCcf=true
     
