@@ -36,7 +36,7 @@ MRC机器阅读理解笔记和集成代码
 
 结果： F1: 85.115和EM: 74.312（高于竞赛排行榜中第一名提交的结果);
 
-集成模型代码见
+集成模型代码见baidu_code和ensemble.ipynb
 
 比赛网址：https://aistudio.baidu.com/aistudio/competition/detail/28?isFromCcf=true
 
