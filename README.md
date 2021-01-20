@@ -36,5 +36,9 @@ MRC机器阅读理解笔记和集成代码
 
 结果： F1: 85.115和EM: 74.312（高于竞赛排行榜中第一名提交的结果);
 
+集成模型代码见
+
 比赛网址：https://aistudio.baidu.com/aistudio/competition/detail/28?isFromCcf=true
+
+子模型下载地址：本人用的是Pytorch版本，https://github.com/ymcui/Chinese-BERT-wwm
     
